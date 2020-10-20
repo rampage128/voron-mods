@@ -18,7 +18,7 @@ two yellow dots (as seen in the image below).
 ![Infill: 15% min](https://img.shields.io/badge/Infill-15%25%20min-blue)
 ![Supports: NO](https://img.shields.io/badge/Supports-NO-green)
 
-[![Squash Foot](squash-foot_v1.0.0.jpg | width=100)](squash-foot_v1.0.0.jpg)
+![Squash Foot](squash-foot_v1.0.0.jpg)
 
 ## Changelog
 
