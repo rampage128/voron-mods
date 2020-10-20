@@ -15,8 +15,8 @@ free to browse the file-structure yourself.
 
 ## Table of Contents
 
-- __[VORON 2.4](2.4/README.md)__: `All mods specific to the VORON 2.4`
-  - __[Squash Ball Foot](2.4/squash-foot/README.md)__: An alternative foot utilizing hard squash balls for dampening.
+- __[VORON 2.4](2.4/)__: `All mods specific to the VORON 2.4`
+  - __[Squash Ball Foot](2.4/squash-foot/)__: An alternative foot utilizing hard squash balls for dampening.
 
 ## Versioning
 
